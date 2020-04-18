@@ -1,8 +1,8 @@
-# region-growing
+# A Parallel Method for Anatomical Structure Segmentation based on 3D Seeded Region Growing
 
-This repository contains the source code to a novel method for the parallel 3D seeded region growing segmentation of anatomical structures, based on GPU architectures. T
+This repository contains the source code to a novel method for the parallel 3D seeded region growing segmentation of anatomical structures, based on GPU architectures.
 
-he results observed with a sample of five CT scans of rodents showed that the method is promising both in terms of efficiency in correctly segmenting the region and in the processing time when compared to a sequential algorithm. 
+The results observed with a sample of five CT scans of rodents showed that the method is promising both in terms of efficiency in correctly segmenting the region and in the processing time when compared to a sequential algorithm. 
 
 **Source code**: [Jupyter notebook](https://github.com/placerda/region-growing/blob/master/automatic_3d_region_growing_ijcnn.ipynb)
 
